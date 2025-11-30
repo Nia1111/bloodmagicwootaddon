@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bloodmagicwootaddon:item/blood_collector_upgrade"
+  }
+}

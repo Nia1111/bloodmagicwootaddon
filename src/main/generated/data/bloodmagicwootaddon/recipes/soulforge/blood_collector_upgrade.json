@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:soulforge",
+  "drain": 100.0,
+  "input0": {
+    "item": "woot_revived:upgrade_base"
+  },
+  "input1": {
+    "item": "bloodmagic:infusedslate"
+  },
+  "input2": {
+    "item": "bloodmagic:weakbloodshard"
+  },
+  "input3": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "minimumDrain": 1000.0,
+  "output": {
+    "item": "bloodmagicwootaddon:blood_collector_upgrade"
+  }
+}
